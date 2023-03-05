@@ -1,0 +1,32 @@
+.Head{
+    width: 450px;
+    height: 90px;
+    background-color: aliceblue;
+    color: black;
+    margin: 20px;
+    font-size: 30px;
+    font-weight: 700;
+    border-radius: 5%;
+}
+
+button{
+    width: 100px;
+    height: 70px;
+    margin: 5px;
+}
+
+.base{
+    background-color: rgb(223, 238, 238);
+    height: 420px;
+    border-radius: 5%;
+}
+
+.upper-head{
+    /* background-color: rgb(177, 243, 243); */
+    height: 100px;
+    border-radius: 3%;
+}
+
+/* #result{
+    width: 200px;
+} */
